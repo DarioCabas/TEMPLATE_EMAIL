@@ -124,9 +124,8 @@ _You have your ros environment in your bashrc file. If you don't have do the nex
 
 ## Built With🛠️
 
-* [ROS Melodic Morenia](http://wiki.ros.org/melodic) - The robot framework used
-* [RVIZ](http://wiki.ros.org/rviz) - 3D visualizer for the Robot Operating System (ROS) framework
-* [Gazebo](http://gazebosim.org/tutorials?tut=ros_overview) - Simulator
+* [HMTL](https://codigofacilito.com/articulos/que-es-html) - HyperText Markup Language
+* [CSS](https://es.wikipedia.org/wiki/Hoja_de_estilos_en_cascada) - Cascading Style Sheets
 
 ## Authors✒️
 
