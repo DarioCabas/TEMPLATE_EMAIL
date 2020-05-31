@@ -89,21 +89,6 @@ rosdep check --from-paths . --melodic-src --rosdistro melodic
 
 **Running the model with RVIZ**
 
-![Recordit GIF](http://g.recordit.co/2arPhSURiX.gif)
-
-Model in RVIZ
-
-<p align="center">
-  <img width="460" height="300" src="https://im4.ezgif.com/tmp/ezgif-4-c002a8ed0cc9.gif">
-</p>
-
-**Run model into Gazebo**
-
-![Recordit GIF](https://im4.ezgif.com/tmp/ezgif-4-e9257d998270.gif)
-
-**Teleoperation of the robot**
-
-![](https://im4.ezgif.com/tmp/ezgif-4-b16be1e3d0c0.gif)
 
 ## Deployment📦
 
