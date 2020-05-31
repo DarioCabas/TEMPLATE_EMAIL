@@ -67,23 +67,6 @@ https://github.com/DarioCabas/ROS_Webpage
   cd ~/catkin_ws/src
   git clone https://github.com/ros-simulation/gazebo_ros_pkgs.git -b melodic-devel
 ```
-- _Check for any missing dependencies using rosdep:_
-
-```
-rosdep update
-rosdep check --from-paths . --melodic-src --rosdistro melodic
-```
-- _You can automatically install the missing dependencies using rosdep via debian install:_
-
-```
-  rosdep install --from-paths . --ignore-src --rosdistro melodic -y
-```
-- _To build the Gazebo ROS integration packages, run the following commands:_
-
-```
-  cd ~/catkin_ws/
-  catkin_make
-```
 
 ## Running the tests ⚙️
 
@@ -97,30 +80,7 @@ _For use the teleoperation keyboard you need to download the teleop_twist_keyboa
 ```
   cd ~/catkin_ws/src
 ```
-```
-  git clone https://github.com/ros-teleop/teleop_twist_keyboard
-```
-```
-  cd ~/catkin_ws
-```
-```
-  catkin_make
-```
-```
-  source ~/catkin_ws/devel/setup.bash
-```
-```
-  source ~/.bashrc
-```
 
-_You have your ros environment in your bashrc file. If you don't have do the next steps:_
-
-```
-  gedit ~/.bashrc
-```
-```
-  source ~/catkin_ws/devel/setup.bash
-```
 
 ## Built With🛠️
 
@@ -129,7 +89,7 @@ _You have your ros environment in your bashrc file. If you don't have do the nex
 
 ## Authors✒️
 
-* **Dario Cabascango** - *Initial work* - [2wheel_robot](https://github.com/DarioCabas)
+* **Dario Cabascango** - *Initial work* - [TEMPLATE_EMAIL](https://github.com/DarioCabas)
 
 ## License📄
 
