@@ -52,24 +52,7 @@ _You need to use an editor if you want, or only you download the files and execu
 
 #### Clone
 
-- _Clone this repo to your local machine using_ `https://github.com/DarioCabas/2wheel_robot`
-
-- _You can find the robot in the file named 2wheel_robot_
-
-#### Setup
-
-- _Make sure git is installed on your Ubuntu machine:_
-
-```
-  sudo apt-get install git
-```
-
-- _Download the source code from the gazebo_ros_pkgs github repository:_
-
-```
-  cd ~/catkin_ws/src
-  git clone https://github.com/ros-simulation/gazebo_ros_pkgs.git -b melodic-devel
-```
+- _Clone this repo to your local machine using_ `https://github.com/DarioCabas/TEMPLATE_EMAIL`
 
 ## Running the tests ⚙️
 
