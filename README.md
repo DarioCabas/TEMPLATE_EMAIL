@@ -66,14 +66,14 @@ _You need to use an editor if you want, or only you download the files and execu
 </p>
 
 
-
 ## Deployment📦
 
-_For use the teleoperation keyboard you need to download the teleop_twist_keyboard from the github to your ~/catkin_ws/src folder. Steps :_
+_If you want, you can use an editor of code with a live server and you can see the changes at the same time when you save the project:_
 
-```
-  cd ~/catkin_ws/src
-```
+<p align="center">
+    <img src="http://g.recordit.co/TtbT6sYqv5.gif" alt="Logo">
+</p>
+
 
 
 ## Built With🛠️
