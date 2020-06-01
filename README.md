@@ -41,11 +41,9 @@ _These instructions will get you a copy of the project up and running on your lo
 
 _You need to use an editor if you want, or only you download the files and execute the file named:_ 
 
-
 ```
   index.html
 ```
-
 
 ### Installing🔧
 
@@ -74,16 +72,16 @@ _If you want, you can use an editor of code with a live server and you can see t
     <img src="http://g.recordit.co/TtbT6sYqv5.gif" alt="Logo">
 </p>
 
-
-
 ## Built With🛠️
 
 * [HMTL](https://codigofacilito.com/articulos/que-es-html) - HyperText Markup Language
 * [CSS](https://es.wikipedia.org/wiki/Hoja_de_estilos_en_cascada) - Cascading Style Sheets
 
+
 ## Authors✒️
 
 * **Dario Cabascango** - *Initial work* - [TEMPLATE_EMAIL](https://github.com/DarioCabas)
+
 
 ## License📄
 
