@@ -25,9 +25,9 @@ _This is a short description about the content of my proyect. In this project I 
 * [Running the tests](#running-the-tests)
 * [Deployment](#deployment)
 * [Built With](#built-With)
-* [Authors](#authors)
-* [License](#license)
-* [Contact](#contact)
+* [Authors](#Suthors)
+* [License](#License)
+* [Contact](#Contact)
 
 
 
