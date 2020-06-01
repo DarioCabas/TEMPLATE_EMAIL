@@ -16,7 +16,7 @@
 
 # TEMPLATE FOR AN EMAIL 
 
-_This is a short description about the content of my proyect. In this project I create a robot with ROS, we use a URDF model to construct our robot and uses the xacro files for more structure code of the robot in a different files. So in this present project you can see a robot based in two wheels and a caster front that can visualize en RVIZ that is a tool for visualization._
+_This is a short description about the content of my proyect. In this project I create a template that you can send in an e-mail.This template was created using **_HMTL_** _and_ **_CSS_** also this template is responsive with your screen of your devices._
 
 ## Table of contents
 * [Getting Started](#Getting-Started)
@@ -39,10 +39,13 @@ _These instructions will get you a copy of the project up and running on your lo
 
 ## Prerequisites:clipboard:
 
-_You need to install all packages of_ **_ROS Melodic_** _and in the same way you need to use the_ **_RVIZ_** _if you want to see the model of your robot how its going on, and for the last_ **_Gazebo_** _permit to control the robot, I use this robot in another repository that you can find in the next link:_
+_You need to use an editor if you want, or only you download the files and execute the file named:_ 
 
 
-https://github.com/DarioCabas/ROS_Webpage
+```
+  index.html
+```
+
 
 
 ### Installing🔧
