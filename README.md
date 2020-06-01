@@ -59,6 +59,13 @@ _You need to use an editor if you want, or only you download the files and execu
 
 ![Recordit GIF](http://g.recordit.co/lbKzLLWMum.gif)
 
+**Template in the firefox navigator**
+<p align="center">
+    <img src="https://imageog.flaticon.com/icons/png/512/25/25231.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" alt="Logo">
+
+</p>
+
+
 
 ## Deployment📦
 
