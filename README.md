@@ -47,7 +47,6 @@ _You need to use an editor if you want, or only you download the files and execu
 ```
 
 
-
 ### Installing🔧
 
 #### Clone
@@ -56,7 +55,9 @@ _You need to use an editor if you want, or only you download the files and execu
 
 ## Running the tests ⚙️
 
-**Running the model with RVIZ**
+**Running index.html with firefox navigator**
+
+![Recordit GIF](http://g.recordit.co/lbKzLLWMum.gif)
 
 
 ## Deployment📦
